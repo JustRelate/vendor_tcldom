@@ -1,0 +1,3 @@
+In der 3.1er-Version von Tcldom gibts Bugs, die bei uns gefixt sind.
+
+Siehe dom.tcl.orig und dom.tcl
